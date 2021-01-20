@@ -3,6 +3,8 @@
 欢迎大家补充，提供给学弟学妹们意见。
 You are welcomed to create pull requests for sharing your ideas.
 
+[Doing the PhD：可观这14个主题](https://zhuanlan.zhihu.com/p/165296685)
+
 ## 目录
 * What 
     * 我们的目标是什么？
